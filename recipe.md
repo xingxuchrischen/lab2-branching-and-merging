@@ -1,6 +1,7 @@
 # Chocolate Caramel Celebration Cake
 
 This recipe makes a three-layer celebration cake with a caramel filling between each layer and vanilla frosting on the outside.
+Rating: 5/5
 
 ## Cake Ingredients
 
